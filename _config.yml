@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "/"
-url: "https://jp.diffense.co.kr/"
+url: "http://jp.diffense.co.kr/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
